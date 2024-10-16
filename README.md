@@ -1,3 +1,3 @@
 # ClassDiagramRepository
 
-<img src="./MMO-diagram.svg>
+<img src="./MMO-diagram.svg">
