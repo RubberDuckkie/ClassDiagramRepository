@@ -1,6 +1,6 @@
-# ClassDiagramRepository
 
+# Class Diagram
 <img src="./MMO-diagram.svg">
 
-# 2nd Diagram
-<img src="./Character-diagram.svg">
+# Requirements Diagram
+<img src="./Requirement.drawio.svg">
